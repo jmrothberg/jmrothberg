@@ -1,0 +1,9 @@
+sentence-transformers huggingface_hub
+gradio
+fuzzywuzzy
+diffusers
+torch
+transformers
+python-Levenshtein
+accelerate
+safetensors
