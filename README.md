@@ -28,7 +28,6 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | Repository | Description |
 |---|---|
 | [AGENTS](https://github.com/jmrothberg/AGENTS) | Monorepo: MLX/Linux LLM servers + Obedient Beast agent with tool calling, scheduling, memory, and FLUX/Z-Image art |
-| [Collosol-Cave-with-local-LLM](https://github.com/jmrothberg/Collosol-Cave-with-local-LLM) | Two adventure engines — code-driven rooms vs. LLM-as-game-master — with Ollama, MLX, Diffusers, and Pyramid Flow |
 | [CodeRunner](https://github.com/jmrothberg/CodeRunner) | Browser IDE for multi-model AI chat, code editing, RAG, and generated games |
 | [Agent_learning](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [Brain6](https://github.com/jmrothberg/Brain6) ⭐ | Custom transformer LLM framework; extended from Shakespeare to chess-game tokenization |
@@ -50,6 +49,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Repository | Description |
 |---|---|
+| [Collosol-Cave-with-local-LLM](https://github.com/jmrothberg/Collosol-Cave-with-local-LLM) | Two adventure engines — code-driven rooms vs. LLM-as-game-master — with Ollama, MLX, Diffusers, and Pyramid Flow |
 | [Games](https://github.com/jmrothberg/Games) | Collection of HTML5 and Python games — Asteroids, Pac-Man, Iron Dome, Space Invaders, Tank Battle |
 | [Gauntlet](https://github.com/jmrothberg/Gauntlet) | Faithful Gauntlet: The Third Encounter — Python/Pygame desktop + HTML5 Canvas web |
 | [DOOM_Python](https://github.com/jmrothberg/DOOM_Python) | DOOM-style 3D raycasting FPS with networked multiplayer |
@@ -59,7 +59,6 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [Chess_with_GPThelp_to_write](https://github.com/jmrothberg/Chess_with_GPThelp_to_write) | Chess with AI opponent, 3D visualization, and custom models |
 | [scott-adams-adventures](https://github.com/jmrothberg/scott-adams-adventures) | Scott Adams classic text adventures (1978–84) playable in the browser |
 | [Minecraft](https://github.com/jmrothberg/Minecraft) | Minecraft schematic → LDraw LEGO file converter |
-| [3D-neuron-game-of-life-simulator](https://github.com/jmrothberg/3D-neuron-game-of-life-simulator) | Genetics-based 3D Game of Life that connects and solves MNIST figures |
 
 ---
 
@@ -82,6 +81,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | Repository | Description |
 |---|---|
 | [454-Simulator](https://github.com/jmrothberg/454-Simulator) | 454-style pyrosequencing simulator with classical, ML, and transformer base callers |
+| [3D-neuron-game-of-life-simulator](https://github.com/jmrothberg/3D-neuron-game-of-life-simulator) | Genetics-based 3D Game of Life that connects and solves MNIST figures |
 | [rothberg-terminal](https://github.com/jmrothberg/rothberg-terminal) ⭐ | Bloomberg Terminal–style market dashboard from free public data sources |
 
 ---
