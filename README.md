@@ -4,7 +4,7 @@ Inventor and builder across sequencing, medical imaging, protein analysis, embed
 
 **GitHub:** [@jmrothberg](https://github.com/jmrothberg) · **35 repositories** · Python, JavaScript, HTML, Shell
 
-This profile summarizes my public GitHub work. Repositories are grouped by theme; starred items have the most traction or are current focus areas.
+This profile summarizes my public GitHub work. Repositories are grouped by theme; highlighted items are current focus areas.
 
 ---
 
@@ -12,12 +12,12 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Repository | What it is |
 |---|---|
-| [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) ⭐ | Single-file Bloomberg Terminal clone using free public market data |
-| [**ai-circuit-fabricator**](https://github.com/jmrothberg/ai-circuit-fabricator) | Technical plan for a cartridge-based AI circuit fabricator — printable passives, sensors, OECTs, and hybrid snap-in electronics |
-| [**454-Simulator**](https://github.com/jmrothberg/454-Simulator) | Pyrosequencing / E-wave chemistry simulator with multiple base callers (kNN, CNN, transformer) |
-| [**Collosol-Cave-with-local-LLM**](https://github.com/jmrothberg/Collosol-Cave-with-local-LLM) | Colossal Cave–style adventures with local LLMs, diffusion art, and WebGPU in-browser demos |
-| [**AGENTS**](https://github.com/jmrothberg/AGENTS) | Local LLM servers + Obedient Beast personal agent (CLI, WhatsApp, tools, memory, browser control) |
-| [**CodeRunner**](https://github.com/jmrothberg/CodeRunner) | Multi-model AI chat IDE with integrated editor, RAG, and game generation |
+| [**3D-neuron-game-of-life-simulator**](https://github.com/jmrothberg/3D-neuron-game-of-life-simulator) | Genetics-based 3D Game of Life that connects and solves MNIST figures |
+| [**Gene Printer**](https://github.com/jmrothberg/Gene-Printer-Pi) 🔒 | Gene Printer Pi control software and pump/LCD utilities |
+| [**Flight-Planning**](https://github.com/jmrothberg/flight-planning) 🔒 | Multi-drone autonomous building exploration with LIDAR mapping |
+| [**TRS-80-Simulator**](https://github.com/jmrothberg/TRS-80-Simulator) | TRS-80 BASIC simulator with an LLM helper to write code |
+| [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
+| [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
 
 **Live demo:** [WebGPU text-to-image compare](https://jmrothberg.github.io/Collosol-Cave-with-local-LLM/llm_adventure/diffusers-webgpu-compare-test.html) — SD-Turbo, Janus-Pro-1B, and SD 1.5 side by side in the browser.
 
