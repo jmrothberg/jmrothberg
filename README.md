@@ -2,7 +2,7 @@
 
 Inventor and builder across sequencing, medical imaging, protein analysis, embedded systems, and local AI.
 
-**GitHub:** [@jmrothberg](https://github.com/jmrothberg) · **35 repositories** · Python, JavaScript, HTML, Shell
+**GitHub:** [@jmrothberg](https://github.com/jmrothberg) · **36 repositories** · Python, JavaScript, HTML, Shell, SystemVerilog
 
 This profile summarizes my public GitHub work. Repositories are grouped by theme; highlighted items are current focus areas.
 
@@ -16,6 +16,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [**Gene Printer**](https://github.com/jmrothberg/Gene-Printer-Pi) 🔒 | Gene Printer Pi control software and pump/LCD utilities |
 | [**Flight-Planning**](https://github.com/jmrothberg/flight-planning) 🔒 | Multi-drone autonomous building exploration with LIDAR mapping |
 | [**TRS-80-Simulator**](https://github.com/jmrothberg/TRS-80-Simulator) | TRS-80 BASIC simulator with an LLM helper to write code |
+| [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL — Nexys A7, VGA, keyboard, microSD games |
 | [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
 
@@ -66,6 +67,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Repository | Description |
 |---|---|
+| [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | FPGA BASIC microcomputer (SystemVerilog): microcode CPU, VGA/PS2, µSD, Scott Adams / Invaders / Star Trek on Nexys A7 |
 | [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator) | Draft technical plan: AI-to-printable-circuit platform with cartridge economics |
 | [LaserGuider-Pi](https://github.com/jmrothberg/LaserGuider-Pi) | Raspberry Pi + servos: camera-guided laser alignment with OpenCV |
 | [Impossible_Vines](https://github.com/jmrothberg/Impossible_Vines) | ESP32-S3 hydroponics controller with camera, web UI, and automated watering |
@@ -90,10 +92,10 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Metric | Value |
 |---|---|
-| Public repositories | 31 |
+| Public repositories | 32 |
 | Private repositories | 4 |
-| Primary languages | Python, JavaScript, HTML |
-| Most recent | [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator), [Agent_learning](https://github.com/jmrothberg/Agent_learning), [rothberg-terminal](https://github.com/jmrothberg/rothberg-terminal) |
+| Primary languages | Python, JavaScript, HTML, SystemVerilog |
+| Most recent | [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER), [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator), [Agent_learning](https://github.com/jmrothberg/Agent_learning) |
 
 ---
 
