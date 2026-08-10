@@ -16,11 +16,11 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [**Gene Printer**](https://github.com/jmrothberg/Gene-Printer-Pi) 🔒 | Gene Printer Pi control software and pump/LCD utilities |
 | [**Flight-Planning**](https://github.com/jmrothberg/flight-planning) 🔒 | Multi-drone autonomous building exploration with LIDAR mapping |
 | [**TRS-80-Simulator**](https://github.com/jmrothberg/TRS-80-Simulator) | TRS-80 BASIC simulator with an LLM helper to write code |
-| [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL — Nexys A7, VGA, keyboard, microSD games |
+| [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL with full simulation and ASIC RTL — Nexys A7, VGA, keyboard, microSD games |
 | [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
 
-**Live demo:** [WebGPU text-to-image compare](https://jmrothberg.github.io/Collosol-Cave-with-local-LLM/llm_adventure/diffusers-webgpu-compare-test.html) — SD-Turbo, Janus-Pro-1B, and SD 1.5 side by side in the browser.
+**Live demo:** [WebGPU text-to-image compare](https://jmrothberg.github.io/Collosol-Cave-with-local-LLM/llm_adventure/diffusers-webgpu-compare-test.html) — SD-Turbo, Janus-Pro-1B, and SD 1.5 sid[...]
 
 ---
 
@@ -50,7 +50,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Repository | Description |
 |---|---|
-| [Collosol-Cave-with-local-LLM](https://github.com/jmrothberg/Collosol-Cave-with-local-LLM) | Two adventure engines — code-driven rooms vs. LLM-as-game-master — with Ollama, MLX, Diffusers, and Pyramid Flow |
+| [Collosol-Cave-with-local-LLM](https://github.com/jmrothberg/Collosol-Cave-with-local-LLM) | Two adventure engines — code-driven rooms vs. LLM-as-game-master — with Ollama, MLX, Diffusers, a[...] |
 | [Games](https://github.com/jmrothberg/Games) | Collection of HTML5 and Python games — Asteroids, Pac-Man, Iron Dome, Space Invaders, Tank Battle |
 | [Gauntlet](https://github.com/jmrothberg/Gauntlet) | Faithful Gauntlet: The Third Encounter — Python/Pygame desktop + HTML5 Canvas web |
 | [DOOM_Python](https://github.com/jmrothberg/DOOM_Python) | DOOM-style 3D raycasting FPS with networked multiplayer |
@@ -67,7 +67,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 | Repository | Description |
 |---|---|
-| [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | FPGA BASIC microcomputer (SystemVerilog): microcode CPU, VGA/PS2, µSD, Scott Adams / Invaders / Star Trek on Nexys A7 |
+| [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | FPGA BASIC microcomputer (SystemVerilog) with full simulation and ASIC RTL: microcode CPU, VGA/PS2, µSD, Scott Adams / Invaders / Star Trek on N[...] |
 | [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator) | Draft technical plan: AI-to-printable-circuit platform with cartridge economics |
 | [LaserGuider-Pi](https://github.com/jmrothberg/LaserGuider-Pi) | Raspberry Pi + servos: camera-guided laser alignment with OpenCV |
 | [Impossible_Vines](https://github.com/jmrothberg/Impossible_Vines) | ESP32-S3 hydroponics controller with camera, web UI, and automated watering |
@@ -95,7 +95,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | Public repositories | 32 |
 | Private repositories | 4 |
 | Primary languages | Python, JavaScript, HTML, SystemVerilog |
-| Most recent | [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER), [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator), [Agent_learning](https://github.com/jmrothberg/Agent_learning) |
+| Most recent | [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER), [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator), [Agent_learning](htt[...] |
 
 ---
 
