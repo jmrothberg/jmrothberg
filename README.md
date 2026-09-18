@@ -33,7 +33,6 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [Agent_learning](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [Brain6](https://github.com/jmrothberg/Brain6) ⭐ | Custom transformer LLM framework; extended from Shakespeare to chess-game tokenization |
 | [Custom_bots](https://github.com/jmrothberg/Custom_bots) | Custom bots for local LLMs and diffusers |
-| [JMRs_Diffuser](https://github.com/jmrothberg/JMRs_Diffuser) | Conditional DDPM diffusion for MNIST, CIFAR-10, and CelebA |
 | [Diffusers](https://github.com/jmrothberg/Diffusers) | Educational PyTorch MNIST DDPM — learn diffusion by generating digits |
 | [LTX-2-Video-Generator](https://github.com/jmrothberg/LTX-2-Video-Generator) | Inference wrapper for Lightricks LTX-2.3 audio-video generation |
 | [ide-for-opencode](https://github.com/jmrothberg/ide-for-opencode) | Live browser companion for [opencode](https://opencode.ai) — watch agent edits in real time |
