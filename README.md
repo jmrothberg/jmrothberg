@@ -6,6 +6,8 @@ Inventor and builder across sequencing, medical imaging, protein analysis, embed
 
 This profile summarizes my public GitHub work. Repositories are grouped by theme; highlighted items are current focus areas.
 
+**Play everything:** [https://jmrothberg.github.io/](https://jmrothberg.github.io/) — one page that launches every browser game and tool.
+
 ---
 
 ## Highlights
@@ -19,6 +21,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL with full simulation and ASIC RTL — Nexys A7, VGA, keyboard, microSD games |
 | [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
+| [**JMR Play**](https://jmrothberg.github.io/) | One page to launch every browser-playable tool and game |
 
 **Live demo:** [WebGPU text-to-image compare](https://jmrothberg.github.io/Collosol-Cave-with-local-LLM/llm_adventure/diffusers-webgpu-compare-test.html) — SD-Turbo, Janus-Pro-1B, and SD 1.5 sid[...]
 
