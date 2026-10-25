@@ -91,6 +91,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [pico-code](https://github.com/jmrothberg/pico-code) | Raspberry Pi Pico games, camera, and LCD experiments |
 | [VLMfordrones](https://github.com/jmrothberg/VLMfordrones) | Vision-language models for drone applications |
 | Gene-Printer-Pi 🔒 | Gene Printer Pi control software and pump/LCD utilities |
+| [1000_Tokens_Sec](https://github.com/jmrothberg/1000_Tokens_Sec) 🔒 | ELIZA: stacking FPGA computer and language models — Kintex UltraScale+ KU5P motherboard and module boards, BASIC bitstream, and on-chip model training |
 | Flight_vision_test 🔒 | LFM-2.5 inference tools for text and vision-language models on NVIDIA Blackwell |
 
 ---
