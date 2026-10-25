@@ -19,6 +19,8 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [**Flight-Planning**](https://github.com/jmrothberg/flight-planning) 🔒 | Multi-drone autonomous building exploration with LIDAR mapping |
 | [**TRS-80-Simulator**](https://github.com/jmrothberg/TRS-80-Simulator) | TRS-80 BASIC simulator with an LLM helper to write code |
 | [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL with full simulation and ASIC RTL — Nexys A7, VGA, keyboard, microSD games |
+| [**JMR-JS-CSS-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-JS-CSS-FPGA-COMPUTER) | Standalone computer whose native language is JavaScript (NLISC): HTML5 Canvas games run directly as the chip's instruction surface — FPGA now, ASIC next |
+| [**Macintosh**](https://github.com/jmrothberg/Macintosh) 🔒 | Original Macintosh 128K recreated in FPGA RTL for the JMR Artix-7 A100T card — playable in the browser, VGA out on the board |
 | [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
 | [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
 | [**JMR Play**](https://jmrothberg.github.io/) | One page to launch every browser-playable tool and game |
