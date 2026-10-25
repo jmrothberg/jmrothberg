@@ -50,6 +50,17 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 ---
 
+## Self Improving AI
+
+| Repository | Description |
+|---|---|
+| [LLM-GO-1](https://github.com/jmrothberg/LLM-GO-1) 🔒 | Standalone general self-learning interactive AI engine (AlphaGo PUCT + full-weight MLX wake-sleep + web harvester) |
+| [Eliza_Zero](https://github.com/jmrothberg/Eliza_Zero) 🔒 | ELIZA Zero: conversational action and memory learning without a pretrained LLM student |
+| [HTML-GO](https://github.com/jmrothberg/HTML-GO) 🔒 | Self-learning HTML/JS game programming agent |
+| [HTML-GO-play](https://github.com/jmrothberg/HTML-GO-play) | Play the Asteroids game synthesized by HTML-GO |
+
+---
+
 ## Games and interactive simulations
 
 | Repository | Description |
