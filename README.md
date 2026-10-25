@@ -72,6 +72,8 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | Repository | Description |
 |---|---|
 | [JMR-BASIC-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | FPGA BASIC microcomputer (SystemVerilog) with full simulation and ASIC RTL: microcode CPU, VGA/PS2, µSD, Scott Adams / Invaders / Star Trek on N[...] |
+| [JMR-JS-CSS-FPGA-COMPUTER](https://github.com/jmrothberg/JMR-JS-CSS-FPGA-COMPUTER) | FPGA/ASIC-bound computer whose native language is JavaScript (NLISC): HTML5 Canvas games run directly as the chip's instruction surface |
+| [Macintosh](https://github.com/jmrothberg/Macintosh) 🔒 | Original Macintosh 128K recreated in FPGA RTL for the JMR Artix-7 A100T card — browser-playable, VGA out on the board |
 | [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator) | Draft technical plan: AI-to-printable-circuit platform with cartridge economics |
 | [LaserGuider-Pi](https://github.com/jmrothberg/LaserGuider-Pi) | Raspberry Pi + servos: camera-guided laser alignment with OpenCV |
 | [Impossible_Vines](https://github.com/jmrothberg/Impossible_Vines) | ESP32-S3 hydroponics controller with camera, web UI, and automated watering |
