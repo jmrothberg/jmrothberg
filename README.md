@@ -94,6 +94,15 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 
 ---
 
+## New company ideas
+
+| Repository | Description |
+|---|---|
+| [ai-circuit-fabricator](https://github.com/jmrothberg/ai-circuit-fabricator) | AI-to-printable-circuit platform: printable circuit layouts, cartridges, and hybrid snap-in electronics |
+| [Gene-Printer-Pi](https://github.com/jmrothberg/Gene-Printer-Pi) 🔒 | Gene Printer Pi control software and pump/LCD utilities |
+
+---
+
 ## Activity snapshot
 
 | Metric | Value |
