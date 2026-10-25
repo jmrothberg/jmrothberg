@@ -21,7 +21,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 | [**JMR-BASIC-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-BASIC-FPGA-COMPUTER) | Level II–spirited BASIC computer in FPGA RTL with full simulation and ASIC RTL — Nexys A7, VGA, keyboard, microSD games |
 | [**JMR-JS-CSS-FPGA-COMPUTER**](https://github.com/jmrothberg/JMR-JS-CSS-FPGA-COMPUTER) | Standalone computer whose native language is JavaScript (NLISC): HTML5 Canvas games run directly as the chip's instruction surface — FPGA now, ASIC next |
 | [**Macintosh**](https://github.com/jmrothberg/Macintosh) 🔒 | Original Macintosh 128K recreated in FPGA RTL for the JMR Artix-7 A100T card — playable in the browser, VGA out on the board |
-| [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
+| [**Agent_learning**](https://github.com/jmrothberg/Agent_learning) | Local game-building agent: a small LLM (MLX in-process, oMLX, or Ollama) plans, writes, and fixes single-file HTML5 games, verified in real Chromium (Playwright) with a Textual TUI; generates its own sprites (FLUX2-klein / Z-Image), sounds (Stable Audio) and video cutscenes (LTX / Wan); learns from each session via a curated memory playbook; includes critic/VLM reviews, overnight batches, and HTML-game LoRA fine-tuning |
 | [**rothberg-terminal**](https://github.com/jmrothberg/rothberg-terminal) | Single-file Bloomberg Terminal clone using free public market data |
 | [**JMR Play**](https://jmrothberg.github.io/) | One page to launch every browser-playable tool and game |
 
@@ -35,7 +35,7 @@ This profile summarizes my public GitHub work. Repositories are grouped by theme
 |---|---|
 | [AGENTS](https://github.com/jmrothberg/AGENTS) | Monorepo: MLX/Linux LLM servers + Obedient Beast agent with tool calling, scheduling, memory, and FLUX/Z-Image art |
 | [CodeRunner](https://github.com/jmrothberg/CodeRunner) | Browser IDE for multi-model AI chat, code editing, RAG, and generated games |
-| [Agent_learning](https://github.com/jmrothberg/Agent_learning) | Single-file HTML game agent using Ollama + Playwright + Textual |
+| [Agent_learning](https://github.com/jmrothberg/Agent_learning) | Local game-building agent: a small LLM (MLX in-process, oMLX, or Ollama) plans, writes, and fixes single-file HTML5 games, verified in real Chromium (Playwright) with a Textual TUI; generates its own sprites (FLUX2-klein / Z-Image), sounds (Stable Audio) and video cutscenes (LTX / Wan); learns from each session via a curated memory playbook; includes critic/VLM reviews, overnight batches, and HTML-game LoRA fine-tuning |
 | [Brain6](https://github.com/jmrothberg/Brain6) ⭐ | Custom transformer LLM framework; extended from Shakespeare to chess-game tokenization |
 | [Custom_bots](https://github.com/jmrothberg/Custom_bots) | Custom bots for local LLMs and diffusers |
 | [Diffusers](https://github.com/jmrothberg/Diffusers) | Educational PyTorch MNIST DDPM — learn diffusion by generating digits |
